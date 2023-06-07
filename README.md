@@ -1,5 +1,5 @@
 # 02750-Final-Project
-Active learning for mesh segmentation: Comparing uncertainty quantification methods for learning on unstructured data
+Active learning for mesh segmentation: Comparing uncertainty quantification methods for learning on unstructured graphs
 
 ![seg_results_crop](https://github.com/sofiathelima/02750-Final-Project/assets/91429357/cdb17d59-72a4-467d-9201-c6715bc0e4c1)
 
