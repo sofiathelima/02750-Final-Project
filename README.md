@@ -8,6 +8,7 @@ Active learning for mesh segmentation: Comparing uncertainty quantification meth
 * Sofia Lima
 * Jen Wong
 * Parker Simposon
+* Eshwar Venkat
 
 ## Background
 Deep Learning on 3D Meshes: https://medium.com/stanford-cs224w/deep-learning-on-3d-meshes-9608a5b33c98
