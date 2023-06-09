@@ -7,7 +7,7 @@ Active learning for mesh segmentation: Comparing uncertainty quantification meth
 ## Contributors
 * Sofia Lima
 * Jen Wong
-* Parker Simposon
+* Parker Simpson
 * Eshwar Venkat
 
 ## Background
